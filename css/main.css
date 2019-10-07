@@ -1,7 +1,7 @@
 html {
   background-color: #dbd6cf;
   box-sizing: border-box;
-  font-style: Bevan, sans-serif;
+  font-family: Bevan, sans-serif;
   line-height: 1.5;
   margin: .3em
 }
@@ -28,3 +28,4 @@ li {
   border-radius: .75em;
   padding: .6em .5em .75em
 }
+li a:hover: #f33;
