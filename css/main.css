@@ -1,7 +1,7 @@
 html {
   background-color: #dbd6cf;
   box-sizing: border-box;
-  font: Bevan, sans-serif;
+  font-style: Bevan, sans-serif;
   line-height: 1.5;
   margin: .3em
 }
