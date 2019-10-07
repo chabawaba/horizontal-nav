@@ -21,6 +21,7 @@ nav {
 }
 
 li {
+  list-style-type: none;
   text-align: center;
   display: inline-block;
   background-color: #713837;
